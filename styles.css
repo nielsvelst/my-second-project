@@ -10,3 +10,9 @@ p {
 ul{
     border: 1px dashed green;
 }
+.achtergrond{
+    background-color: white;
+}
+.kleur{
+    color: pink;
+}
